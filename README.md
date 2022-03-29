@@ -1,6 +1,13 @@
 # Diseño de un traje de movimiento para terapia
-Este repositorio cuenta con toda la documentación empleada en el informe y todos los códigos generados durante el desarrollo de la residencia profesional del estudiante Iván Alejandro Muñoz Vera.
+## Descripción
+Este repositorio cuenta con toda la documentación empleada en el informe y todos los códigos generados durante el desarrollo de la residencia profesional del estudiante Iván Alejandro Muñoz Vera. Se incluyen, incluso, aquellos códigos que solo se utilizaron para probar algunas características específicas del proyecto (por ejemplo, probar solamente la comunicación entre Arduino y un sensor MARG).
 
-Recomiendo empezar con la lectura del Informe Técnico de Residencia Profesional. En él encontrarán la introducción, el marco teórico, el desarrollo, los resultados y conclusiones del presente proyecto.
+## Consideraciones
+Recomiendo empezar con la lectura del Informe Técnico de Residencia Profesional. En él encontrarán la introducción, el marco teórico, el desarrollo, los resultados y conclusiones del presente proyecto. Además, ahí se mencionan cuáles fueron los códigos finales.
 
-En el repositorio se incluyeron, incluso, aquellos documentos que solo se utilizaron para probar algunas características específicas del proyecto (por ejemplo, probar solamente la comunicación entre Arduino y un sensor MARG). Para conocer los cuales fueron los códigos finales, recomiendo leer el informe técnico.
+Nota: Falta pulir todo el código.
+
+## Avances (muestra de funcionamiento)
+Vídeo grabado semanas antes de terminar la residencia profesional: https://youtu.be/PX_FSjRpfuc. Para más vídeos, favor de abrir el informe. 
+
+Cabe mencionar que el proyecto quedó inconcluso, recomiendo leer las conclusiones del informe para entender el porqué.
