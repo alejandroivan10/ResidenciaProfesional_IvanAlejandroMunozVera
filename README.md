@@ -8,6 +8,6 @@ Recomiendo empezar con la lectura del Informe Técnico de Residencia Profesional
 Nota: Falta pulir todo el código.
 
 ## Avances (muestra de funcionamiento)
-Vídeo grabado semanas antes de terminar la residencia profesional: https://www.youtube.com/watch?v=X3hUj6EfLJg&t=6s. Para más vídeos, favor de abrir el informe (algunos vídeos son públicos y se encuentran dentro del mismo canal de YouTube)
+Vídeos grabados semanas antes de terminar la residencia profesional: https://www.youtube.com/watch?v=X3hUj6EfLJg&t=6s y https://youtu.be/qO_y16jXXGc. Para más vídeos, favor de abrir el informe (algunos vídeos son públicos y se encuentran dentro del mismo canal de YouTube)
 
 Cabe mencionar que el proyecto quedó inconcluso, recomiendo leer las conclusiones del informe para entender el porqué.
